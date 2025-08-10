@@ -54,7 +54,7 @@ const About = () => {
           <Box sx={{ textAlign: 'center',}}>
             <Fade cascade duration={3000} >
             <Box sx={{ textAlign: 'center', width: {xs:'95%', md:'75%'} , margin:'auto'}}>
-              <Typography variant="h4" sx={{ fontWeight: '400', fontFamily:'Inter',  color:'#555555'}}>
+              <Typography variant="h4" sx={{ fontWeight: '300', fontFamily:'Inter',  color:'#555555'}}>
                 <span className='spanTxt'>At Core Dhaka we are passionate, </span> about crafting impactful strategies that resonate with your audience. With a focus on innovation and creativity, we deliver tailored solutions that drive results and foster long-term growth for your brand. From brand development to campaign execution, we're committed to <span className='spanTxt'>helping you achieve your business objectives.</span> 
               </Typography>
             </Box>
